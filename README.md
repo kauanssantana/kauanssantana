@@ -10,7 +10,7 @@ Acredito que a excelência técnica deve caminhar lado a lado com as habilidades
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/KauanS-A">
+  <a href="https://github.com/kauanssantana">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)" />
   </a>
   <a href="https://instagram.com/kauan.santana12">
