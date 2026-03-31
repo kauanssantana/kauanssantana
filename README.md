@@ -42,14 +42,6 @@ Acredito que a excelência técnica deve caminhar lado a lado com as habilidades
 
 ---
 
-## 📊 Status no GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanssantana&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Filosofia
 
 > _"Transformar cada erro em aprendizado e cada aprendizado em código real"_
