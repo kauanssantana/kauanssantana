@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou o Kauan
 
-Formado em Análise e Desenvolvimento de Sistemas pelo Senac, sou um profissional em constante evolução. Meu foco atual está em conectar a criação de interfaces dinâmicas no Front-end com o desenvolvimento de back-end robusto em PHP, além de aplicar o uso estratégico do Python para automações e estruturação lógica.
+Formado em Análise e Desenvolvimento de Sistemas pelo Senac, sou um profissional em constante evolução. Meu foco atual está sendo no estudo da Inteligência artificial, que está em crescente no mercado de trabalho e em conectar a criação de interfaces dinâmicas no Front-end com o desenvolvimento de back-end robusto em Python e PHP, além de aplicar o uso estratégico do Python para automações, uso de IA e estruturação lógica.
 
 Acredito que a excelência técnica deve caminhar lado a lado com as habilidades comportamentais. Por isso, cultivo soft skills essenciais para a tecnologia, como comunicação clara, facilidade para resolução de complexidades, colaboração em equipe e rápida adaptabilidade a novos cenários.
 
@@ -31,13 +31,16 @@ Acredito que a excelência técnica deve caminhar lado a lado com as habilidades
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 ---
