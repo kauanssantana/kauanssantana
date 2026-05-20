@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou o Kauan
 
-Formado em Análise e Desenvolvimento de Sistemas pelo Senac, sou um profissional em constante evolução. Meu foco atual está sendo no estudo da Inteligência artificial, que está em crescente no mercado de trabalho e em conectar a criação de interfaces dinâmicas no Front-end com o desenvolvimento de back-end robusto em Python e PHP, além de aplicar o uso estratégico do Python para automações, uso de IA e estruturação lógica.
+Formado em Análise e Desenvolvimento de Sistemas pelo Senac, sou um desenvolvedor movido pelo aprendizado contínuo. Atualmente, dedico meus estudos à Inteligência Artificial e foco em conectar interfaces dinâmicas no front-end a back-ends robustos em Python e PHP. Além disso, exploro o potencial do Python para criar automações e otimizar processos lógicos.
 
 Acredito que a excelência técnica deve caminhar lado a lado com as habilidades comportamentais. Por isso, cultivo soft skills essenciais para a tecnologia, como comunicação clara, facilidade para resolução de complexidades, colaboração em equipe e rápida adaptabilidade a novos cenários.
 
