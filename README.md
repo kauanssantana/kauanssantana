@@ -1,4 +1,4 @@
-# Olá, Eu sou o Kauan
+# Fala pessoal, sou o Kauan
 
 Formado em Análise e Desenvolvimento de Sistemas pelo Senac, sou um desenvolvedor movido pelo aprendizado contínuo. Atualmente, dedico meus estudos à Inteligência Artificial e foco em conectar interfaces dinâmicas no front-end a back-ends robustos em Python e PHP. Além disso, exploro o potencial do Python para criar automações e otimizar processos lógicos.
 
